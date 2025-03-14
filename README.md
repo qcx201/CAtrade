@@ -1,6 +1,6 @@
 # Canadian trade
 
-Why did Donald Trump start an unnecessary trade war with Canada? For no good reason, of courses. My pet theory is that he hates being cuckholded by Justin Trudeau.
+Why did Donald Trump start an unnecessary trade war with Canada? For no good reason, of courses. My pet theory is that he does not like being cuckholded by Justin Trudeau.
 
 It goes back to a G7 summit in 2019 where a saucy photo of Trudeau kissing Melania went viral. One headline (from French news, of course) read, ["Look of Lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
 
@@ -15,7 +15,7 @@ These memes are all ridiculous and hilarious, of course. And now we have a trade
 
 Mark Carney, who will replace Trudeau as Prime Minister and leader of the Liberal Party, said after his election that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs.
 
-So how might this play out for Canadian industries and ? Let's first take a look at the current state of affairs between Canada and its main trade partners. Then we will discuss how the proposed tariffs and counter-tariffs may influence Canada's trade patterns and the effect on jobs, wages, and prices.
+So how might this play out for Canadian industries and ? Let's first take a look at the current state of affairs between Canada and its main trade partners. Then we'll discuss how the proposed tariffs and counter-tariffs may influence Canada's trade patterns and the effect on jobs, wages, and prices.
 
 TODO/might-dos:
 * Descriptive figures of balance of payments by industry for Canada and main trade partners

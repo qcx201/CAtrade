@@ -2,7 +2,7 @@
 
 Why did Donald Trump start an unnecessary trade war with Canada? For no good reason, of courses. His justifications are all bullshit. Canada's contribution to the US border problem is negligeable, and the trade deficit with Canada is dwarfed by those of other US trade partners like China and Germany. [sources needed]
 
-My pet theory is that he does not like being cuckholded by Justin Trudeau.
+My pet theory is that he did not like being cuckholded by Justin Trudeau.
 
 It goes back to a G7 summit in 2019 where a saucy photo of Trudeau kissing Melania went viral. One headline (from French news, of course) read, ["Look of Lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo).
 

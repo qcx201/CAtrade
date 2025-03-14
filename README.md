@@ -13,7 +13,7 @@ The first daughter was not spared the Trudeau photo trap either. One viral tweet
 ![17419573798756131767425569568346](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578)
 
 
-These memes are all ridiculous and hilarious, of course. And now we have a trade war.
+As ridiculous (and hilarious) as this is, we now have a trade war.
 
 Mark Carney, who will replace Trudeau as Prime Minister and leader of the Liberal Party, said after his election that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs.
 

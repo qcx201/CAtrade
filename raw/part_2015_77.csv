@@ -1,0 +1,663 @@
+<!DOCTYPE html>
+<!--[if gt IE 8]><!-->
+<!--[if lt IE 9]><html class="no-js lt-ie9" dir="ltr"><![endif]-->
+<html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" dir="ltr">
+<!--<![endif]-->
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+         wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+    
+    <title>Search by product (HS code)</title>
+    <meta content="width=device-width,initial-scale=1" name="viewport" />
+    <!-- Additional analytics, if required. -->
+     <!-- No additional analytics. --> 
+    <!-- Load closure template scripts -->
+    <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/cdts/compiled/soyutils.js"></script>
+    <script type="text/javascript" src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/cdts/compiled/wet-en.js"></script>
+    <noscript>
+      <!-- Write closure fall-back static file -->
+      
+      		<!--[if gte IE 9 | !IE ]><!-->
+		<link href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/assets/favicon.ico" rel="icon" type="image/x-icon"/>
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/css/theme.min.css"/>
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/cdts/cdtsfixes.css"/>
+		<!-- Are you using the application templates? If so add the following CSS file -->
+		<!-- <link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/cdts/cdtsapps.css">-->
+		<!--<![endif]-->
+		<!--[if lt IE 9]>
+		<link href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/assets/favicon.ico" rel="shortcut icon" />
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/css/ie8-theme.min.css" />
+		<![endif]-->
+		<!--[if lte IE 9]><![endif]-->
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/css/noscript.min.css" />
+		<link rel="stylesheet" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/cdts/cdtsnoscript.css" />
+    </noscript>
+    <!-- Write closure template -->
+    <script>
+      /*<![CDATA[*/
+      document.write(wet.builder.refTop({
+          cdnEnv: "Akamai",
+          jqueryEnv: "false"
+      }));
+      /*]]>*/
+    </script>
+    <!-- Write custom CSS elements here. Added through 'cssIncludes' model attribute. -->
+      
+    <link rel="stylesheet" type="text/css" href="/app/ixb/tdo/css/common.css" />
+      
+    <link rel="stylesheet" type="text/css" href="/app/ixb/tdo/css/add_WET_4-0_Canada_Apps.css" />
+             
+    <!-- Write external CSS elements here. Added through 'externalCssIncludes' model attribute. -->
+            
+  </head>
+  <body vocab="http://schema.org/" typeof="WebPage">
+    <!-- Insert session timeout here. -->
+      
+    <div id="def-top">
+      <!-- Write closure fall-back static file -->
+      <div>		<ul id="wb-tphp">
+			<li class="wb-slc"><a class="wb-sl" href="#wb-cont">Skip to main content</a></li>
+			<li class="wb-slc visible-sm visible-md visible-lg"><a class="wb-sl" href="#wb-info">Skip to "About this site"</a></li>
+		</ul>
+		<header>
+			<div id="wb-bnr" class="container">
+				<div class="row">
+					<div class="brand col-xs-5 col-md-4" property="publisher" typeof="GovernmentOrganization">
+						<a href="https://www.canada.ca/en.html" property="url"><img src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/assets/sig-blk-en.svg" alt="" property="logo" />
+							<span class="wb-inv" property="name"> Government of Canada / <span lang="fr">Gouvernement du Canada</span></span></a>
+							<meta property="areaServed" typeOf="Country" content="Canada" />
+							<link property="logo" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/assets/wmms-blk.svg" />
+					</div>
+					<section id="wb-srch" class="col-lg-8 text-right">
+						<h2>Search</h2>
+						<form action="https://www.canada.ca/en/sr.html" method="get" name="cse-search-box" role="search" class="form-inline">
+							<div class="form-group">
+								<label for="wb-srch-q" class="wb-inv">Search Canada.ca</label>
+								<input name="cdn" value="canada" type="hidden"/>
+								<input name="st" value="s" type="hidden"/>
+								<input name="num" value="10" type="hidden"/>
+								<input name="langs" value="en" type="hidden"/>
+								<input name="st1rt" value="1" type="hidden"/>
+								<input name="s5bm3ts21rch" value="x" type="hidden"/>
+								<input id="wb-srch-q" list="wb-srch-q-ac" class="wb-srch-q form-control" name="q" type="search" value="" size="34" maxlength="170" placeholder="Search Canada.ca"/>
+								<input type="hidden" name="_charset_" value="UTF-8"/>
+								<datalist id="wb-srch-q-ac">
+									<!--[if lte IE 9]><select><![endif]-->
+									<!--[if lte IE 9]></select><![endif]-->
+								</datalist>
+							</div>
+							<div class="form-group submit">
+								<button type="submit" id="wb-srch-sub" class="btn btn-primary btn-small" name="wb-srch-sub"><span class="glyphicon-search glyphicon"></span><span class="wb-inv">Search</span></button>
+							</div>
+						</form>
+					</section>
+				</div>
+			</div>
+			<nav class="gcweb-menu" typeof="SiteNavigationElement">
+				<div class="container">
+					<h2 class="wb-inv">Menu</h2>
+					<button type="button" aria-haspopup="true" aria-expanded="false"><span class="wb-inv">Main </span>Menu <span class="expicon glyphicon glyphicon-chevron-down"></span></button>
+					<ul role="menu" aria-orientation="vertical">
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/jobs.html">Jobs and the workplace</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/immigration-citizenship.html">Immigration and citizenship</a></li>
+						<li role="presentation"><a role="menuitem" href="https://travel.gc.ca/">Travel and tourism</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/business.html">Business and industry</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/benefits.html">Benefits</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/health.html">Health</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/taxes.html">Taxes</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/environment.html">Environment and natural resources</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/defence.html">National security and defence</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/culture.html">Culture, history and sport</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/policing.html">Policing, justice and emergencies</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/transport.html">Transport and infrastructure</a></li>
+						<li role="presentation"><a role="menuitem" href="http://international.gc.ca/world-monde/index.aspx?lang=eng">Canada and the world</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/finance.html">Money and finances</a></li>
+						<li role="presentation"><a role="menuitem" href="https://www.canada.ca/en/services/science.html">Science and innovation</a></li>
+					</ul>
+				</div>
+			</nav>
+			<nav id="wb-bc" property="breadcrumb">
+				<h2>You are here:</h2>
+				<div class="container">
+					<div class="row">
+						<ol class="breadcrumb">
+							<li><a href="https://www.canada.ca/en.html">Home</a></li>
+						</ol>
+					</div>
+				</div>
+			</nav>
+		</header></div>
+    </div>    
+    <!-- Write closure template -->
+    <script>
+      /*<![CDATA[*/
+      var defTop = document.getElementById("def-top");
+      defTop.outerHTML = wet.builder.top({
+          cdnEnv: "Akamai",
+          search: false,
+          lngLinks: [{
+              lang: "fr",
+              href: "?cssIncludes=%252Fcss%252Fadd_WET_4-0_Canada_Apps.css\u0026jsIncludes=js%252FsurveyPopup.js\u0026grouped=INDIVIDUAL\u0026searchType=BL\u0026areaCodes=\u0026toFromCountry=CDN\u0026reportType=TB\u0026customYears=2015\u0026periodString=\u0026timePeriod=Custom%2BYears\u0026currency=CDN\u0026productType=HS6\u0026naArea=9999\u0026countryList=DET\u0026hSelectedCodes=77\u0026lang=fre",
+              text: "Fran\u0026ccedil;ais"
+          }],
+          showPreContent: true,
+          breadcrumbs: [{"title":"Home","titleEN":"Home","titleFR":"Accueil","href":"http:\/\/www.canada.ca\/en\/index.html","viewName":"CANADA_HOME"},{"title":"...","titleEN":"...","titleFR":"..."},{"title":"Report","titleEN":"Report","titleFR":"Recherche","href":"\/app\/ixb\/tdo","viewName":"tdo","acronym":""}]
+      });
+      /*]]>*/
+    </script>
+    <main role="main" property="mainContentOfPage" class="container">
+      <!-- the main content -->
+      <div>
+		<h1 id="wb-cont">Search by product (HS code) - Trade Data Online</h1>
+		<!-- line 28-->
+		<section class="panel-body">
+			<span class="noWrap floatRight"> <span> <a
+					href="https://ised-isde.canada.ca/site/trade-data-online/en/help-product"
+					target="_blank">Help</a>
+			</span> <span>|Return to </span> <span> <a
+					href="https://ised-isde.canada.ca/site/trade-data-online/en"
+					title="Trade Data Online" target="_blank">Trade Data Online</a>
+			</span>
+			</span>
+		</section>
+
+		<div class="wb-frmvld">
+			<form action="/app/ixb/tdo/crtr.html" method="post" name="reportForm" id="reportForm">
+				<input type="hidden"
+					value="2015" id="customYears" name="customYears"> <input
+					type="hidden"
+					value="HS6" id="productType" name="productType"> <input
+					type="hidden"
+					value="CDN" id="toFromCountry" name="toFromCountry"> <input
+					type="hidden"
+					value="" id="periodString" name="periodString"> <input
+					type="hidden"
+					value="77" id="hSelectedCodes" name="hSelectedCodes"> <input
+					type="hidden"
+					value="" id="areaCodes" name="areaCodes">
+
+				<div class="panel panel-default">
+					<header class="panel-heading">
+						<h2 class="panel-title">Search</h2>
+					</header>
+					<section class="panel-body">
+						<p>Begin by making your selection in the options below. To view the data press the <b>Run report</b> button.</p>
+
+						<!-- Trade type line 85-91 -->
+						<div class="form-group">
+							<label for="reportType"><span class="field-name">Trade type</span></label> <select name="reportType"
+								class="form-control" id="reportType">
+								<option value="TE">Total exports</option>
+								<option value="DE">Domestic exports</option>
+								<option value="RE">Re-exports</option>
+								<option value="TI">Total imports</option>
+								<option value="TB" selected="selected">Trade balance</option>
+							</select>
+						</div>
+
+						<!-- Trader line 93-118 -->
+						<div class="form-group">
+							<label for="naArea"><span class="field-name"
+								title="Trader is the country that records imported goods coming in or exported goods leaving through customs.">Trader</span></label> <select
+								name="naArea" class="form-control" id="naArea" onchange="onNaAreaChange(event)">
+								<option value="9999" selected="selected">Canada</option>
+								<option value="9998">Distribution by province</option>
+								<option value="9997">United States</option>
+								<optgroup label="Provinces">
+									<option value="P10">Newfoundland and Labrador</option>
+									<option value="P11">Prince Edward Island</option>
+									<option value="P12">Nova Scotia</option>
+									<option value="P13">New Brunswick</option>
+									<option value="P24">Quebec</option>
+									<option value="P35">Ontario</option>
+									<option value="P46">Manitoba</option>
+									<option value="P47">Saskatchewan</option>
+									<option value="P48">Alberta</option>
+									<option value="P59">British Columbia</option>
+									<option value="P61">Northwest Territories</option>
+									<option value="P60">Yukon Territory</option>
+									<option value="P62">Nunavut</option>
+								</optgroup>
+								<optgroup label="Areas/Regions">
+									<option value="R1">Atlantic Canada</option>
+									<option value="R2">Central Canada</option>
+									<option value="R3">Prairies</option>
+									<option value="R4">B.C. and Territories</option>
+								</optgroup>
+							</select>
+
+							<div id="infoBlock" class="hidden row">
+								<div class="alert alert-info">
+									<p id="infoTxtUsa">Source: US Census Bureau - data not comparable to Statistics Canada's due to different methodologies - see <a href="https://ised-isde.canada.ca/site/trade-data-online/en/frequently-asked-questions#q25" target="_blank">FAQ</a></p>
+								</div>
+							</div>
+						</div>
+
+						<!-- Trading partner line 120-134 -->
+						<div class="form-group">
+							<label class="required" for="countryList"><span
+								class="field-name" title="#{report.criteria.tradingPartner.desc}">Trading partner</span> &nbsp;<strong
+								class="required">(required)</strong>
+								
+								</label> <select
+								name="countryList" class="form-control" id="countryList">
+								<option value="ALL">All countries (total)</option>
+								<option value="specific">Find country, region, or US state</option>
+								<option value="DET" selected="selected">All countries (detailed)</option>
+								<option value="SALL">Distribution by state (U.S.)</option>
+								<option value="1">Re-Imports (Canada)</option>
+								<option value="TOP">Top 10 countries</option>
+							</select>
+
+							<!-- line 130-132 -->
+							<div id="specificCountryDiv"></div>
+
+						</div>
+
+						<!-- Time period line 136-143 -->
+						<div class="form-group">
+							<label for="timePeriod"><span class="field-name">Time period</span></label> <select name="timePeriod"
+								class="form-control" id="timePeriod">
+								<option value="5|Complete Years">Latest 5 years</option>
+								<option value="10|Complete Years">Latest 10 years</option>
+								<option value="|Custom Years">Specific year(s)</option>
+								<option value="2|Year To Date">Year to date</option>
+								<option value="24|Monthly Trends">Latest 24 months</option>
+							</select>
+						</div>
+
+						<div id="timePeriodSpan" class="form-group">
+							<label for="customYearsSelect"
+								class="control-label required"><span
+								class="field-name">Select specific year</span> <strong
+								class="required small">(required)</strong>
+								
+							</label>
+							<select id="customYearsSelect" name="customYearsSelect" size="4"
+									multiple="multiple" class="form-control"></select>
+						</div>
+						
+						<!-- Value in -->
+						<div class="form-group">
+							<label for="currency"><span class="field-name">Value in</span></label> <select name="currency"
+								class="form-control" id="currency">
+								<option value="CDN" selected="selected">$ Canadian (current dollars)</option>
+								<option value="US">$ U.S. (current dollars)</option>
+								<option value="PC">% Percentage</option>
+							</select>
+
+						</div>
+
+						<h2>Select a product</h2>
+						<!-- line 163 -->
+
+						<!-- Product options -->
+						<div class="form-group">
+							<label for="searchType"><span class="field-name">Product options</span></label> <select
+								name="searchType" class="form-control" id="searchType">
+								<option value="All">Total - all products</option>
+								<option value="KS_CS">Search for a product</option>
+								<option value="BL" selected="selected">Browse list of products</option>
+								<option value="Top25">Top 25 products (HS6 codes)</option>
+								<option value="Top25_4">Top 25 product groups (HS4 codes)</option>
+								<option value="Top25_2">Top 25 chapters (HS2 codes)</option>
+							</select>
+						</div>
+						<div id="searchTypeArea">
+					        <section class="panel panel-info">
+					          <header class="panel-heading">
+					            <h2 id="searchTypeAreaPanelTitle" class="panel-title" ></h2>
+					          </header>
+					
+					          <div class="panel-body">
+					          	<div><!DOCTYPE html>
+<html>
+
+<div id="keywordSearchEntryArea">
+	<div id="searchJspJsVars" data-searchPanelTitle="Search for a product"></div>
+
+	<p>
+		<span>Enter keywords or HS codes for the product you are interested in.</span>
+	</p>
+	<section id="topTenInfo" class="alert alert-info">
+		<p>
+			<span>Only one product per report is permitted for the <b>top 10 countries</b> option.</span>
+		</p>
+	</section>
+
+	<div class="form-group">
+		<label for="searchString" class="col-sm-2 control-label required">
+			<span class="field-name" >Search for </span></span> <strong
+			class="required small" >(required)</strong></strong>
+		</label>
+		<div class="input-group col-sm-4">
+			<input name="searchString" size="20" maxlength="40" id="searchString"
+				class="form-control" type="text" /> <span class="input-group-btn">
+				<input id="submitButtonSearchCodes" name="submitButtonSearchCodes"
+				type="button" class="btn btn-primary" value="Search" />
+			</span>
+		</div>
+	</div>
+</div></div>
+					          	<div><!DOCTYPE html>
+<html>
+
+<div id="browseListSearchEntryArea" class="hidden">
+	<div id="browseJspJsVars"
+		data-browsePanelTitle="Browse for a product"></div>
+
+	<div id="instructions">
+		<p>
+			<span>Select a product category and press the View Products button to view all products for that category.</span>
+		</p>
+	</div>
+
+	<div id="topTenInfo1" class="alert alert-info">
+		<p>
+			<span >Only one industry per report is permitted for the <b>top 10 countries</b> option.</span>
+        </p>
+	</div>
+
+	<div class="form-group">
+		<label for="browseCodes"><span class="field-name">Product categories</span> </label>
+		<select name="browseCodes" size="1" id="browseCodes"
+			class="form-control">
+		</select>
+	</div>
+
+	<button id="submitButtonBrowseList" type="button"
+		class="btn btn-primary" name="submitButtonBrowseList">View products</button>
+</div></div>
+					          	<div><!DOCTYPE html>
+<html>
+<div id="searchNoResultsArea" class="hidden" >No results found.</div>
+
+<div id="searchResultArea" class="hidden">
+  
+  <h3 >Product list</h3>
+
+  <div class="alert alert-info">
+    <h3 class="h5">Select one or more products and press the <b>Add to Selected Products</b> button.</h3>
+  </div>
+
+  <p>(NES = not elsewhere specified)</p>
+  
+  <section id="selectionErrorText" class="alert alert-warning hidden">
+   <h3 class="h5">You must select at least one code.</h3>
+  </section>
+ 
+  <section id="parentChildErrorText" class="alert alert-warning hidden">
+   <h3 class="h5"></h3>
+  </section>
+  
+  <div class="form-group">
+  
+   <label for="searchCodes" class="col-sm-2 control-label required">
+     <span id="searchResultCountLabel" class="field-name" >Product list:</span> 
+     <strong class="required small" >(required)</strong>
+   </label>
+   <div class="col-sm-10">     
+    <select name="searchCodes" size="20" id="searchCodes" multiple="multiple" class="form-control mrgn-lft-md" 
+    	utitle="Product list">
+    </select>
+    </div>
+  </div>
+ 
+  <input id="addSelectedCodesButton" class="btn btn-primary" value="Add to selected products" type="button">
+
+</div>
+
+<div id="selectedCodeTableDiv" class="hidden">
+  
+  <h3>Selected product(s)</h3>
+ 
+  <div class="table-responsive">
+  <table id="codeTable" class="table table-bordered table-hover table-condensed">
+    <caption class="wb-inv">Your selected product(s)</caption>
+    <tbody>
+      <tr>
+        <th scope="col">Code(s)</th>
+        <th scope="col">Description</th>
+        <th scope="col">Action</th>
+      </tr>
+        
+    </tbody>
+  </table>
+  </div>
+  
+  <div class="form-group ">
+    <label for="grouped" class="col-sm-2 control-label">Show products</label>
+    <div class="col-sm-10">
+    <select name="grouped"
+		class="form-control" id="grouped">
+		<option value="GROUPED">Grouped</option>
+		<option value="INDIVIDUAL">Shown individually</option>
+	</select>
+    </div>
+  </div>
+
+</div>
+
+</div>
+					          </div>
+					        </section>
+					  </div>
+
+					</section>
+					<footer class="panel-footer">
+						<button type="submit" class="btn btn-primary" name="search" id="runReport">Run report</button>
+					</footer>
+				</div>
+
+				<div><!DOCTYPE html>
+<html>
+    <script>
+        /* <![CDATA[ */
+            var context = "\/app\/ixb\/tdo\/";
+            var messageKeys = null;
+            var currentLanguage = null;
+            var groupeValue = "GROUPED";
+            var areaCodeUs = "9997";
+            var countryConstant = "country";
+            var regionsConstant = "regions";
+            var stateConstant = "state";
+            var specificConstant = "specific";
+            var timeCustomConstant = "|Custom Years";   
+            var oldNaAreaValue = "9999";
+            
+            var countryListCDN = {"C542":"Afghanistan","C242":"Albania","C443":"Algeria","C667":"American Samoa","C156":"Andorra","C446":"Angola","C830":"Anguilla","C462":"Antarctica","C832":"Antigua and Barbuda","C744":"Argentina","C280":"Armenia","C877":"Aruba","C614":"Australia","C143":"Austria","C281":"Azerbaijan","C813":"Bahamas","C313":"Bahrain","C512":"Bangladesh","C822":"Barbados","C285":"Belarus (formerly Byelorussia)","C144":"Belgium","C817":"Belize","C455":"Benin","C815":"Bermuda","C544":"Bhutan","C747":"Bolivia","C872":"Bonaire, Sint Eustatius and Saba","C278":"Bosnia and Herzegovina","C430":"Botswana","C464":"Bouvet Island","C752":"Brazil","C434":"British Indian Ocean Territories","C823":"British Virgin Islands","C525":"Brunei Darussalam","C245":"Bulgaria","C457":"Burkina Faso","C448":"Burundi","C548":"Cambodia (Kampuchea)","C447":"Cameroon","C477":"Cape Verde","C825":"Cayman Islands","C450":"Central African Republic","C451":"Chad","C755":"Chile","C553":"China","C615":"Christmas Island","C610":"Cocos (Keeling) Islands","C758":"Colombia","C460":"Comoros","C452":"Congo (formerly Brazzaville)","C449":"Congo (formerly Zaire)","C621":"Cook Islands","C845":"Costa Rica","C290":"Croatia","C848":"Cuba","C870":"Curacao","C316":"Cyprus","C247":"Czech Republic","C246":"Czechoslovakia ","C466":"C\u00F4te-d'Ivoire","C149":"Denmark","C459":"Djibouti","C833":"Dominica","C855":"Dominican Republic","C763":"Ecuador","C385":"Egypt","C857":"El Salvador","C480":"Equatorial Guinea","C345":"Eritrea","C282":"Estonia","C344":"Ethiopia","C150":"Faeroe Islands","C719":"Falkland Islands","C672":"Federated States of Micronesia","C617":"Fiji","C153":"Finland","C154":"France (incl. Monaco, French Antilles)","C766":"French Guiana","C654":"French Polynesia","C461":"French Southern Territories","C463":"Gabon","C413":"Gambia","C291":"Georgia","C155":"Germany","C258":"Germany, East ","C414":"Ghana","C115":"Gibraltar","C159":"Greece","C3":"Greenland","C834":"Grenada","C862":"Guadeloupe","C666":"Guam ","C864":"Guatemala","C465":"Guinea","C475":"Guinea-Bissau","C716":"Guyana","C867":"Haiti","C616":"Heard and McDonald Island","C2":"High Seas","C869":"Honduras","C516":"Hong Kong","C262":"Hungary","C163":"Iceland","C519":"India","C556":"Indonesia","C347":"Iran","C352":"Iraq","C117":"Ireland","C355":"Israel","C167":"Italy (incl. Vatican City State)","C824":"Jamaica","C559":"Japan","C358":"Jordan","C292":"Kazakhstan","C415":"Kenya","C625":"Kiribati ","C563":"Korea, North","C564":"Korea, South","C273":"Kosovo","C359":"Kuwait","C293":"Kyrgyzstan","C549":"Laos","C283":"Latvia","C363":"Lebanon","C431":"Lesotho","C468":"Liberia","C366":"Libya","C187":"Liechtenstein","C284":"Lithuania","C170":"Luxembourg","C575":"Macau (Macao)","C469":"Madagascar","C416":"Malawi","C524":"Malaysia","C514":"Maldives","C453":"Mali","C119":"Malta","C671":"Marshall Islands","C863":"Martinique","C472":"Mauritania","C417":"Mauritius","C874":"Mexico","C294":"Moldova","C157":"Monaco","C552":"Mongolia","C275":"Montenegro","C829":"Montserrat","C473":"Morocco","C476":"Mozambique","C545":"Myanmar (Burma)","C420":"Namibia","C611":"Nauru","C565":"Nepal","C173":"Netherlands","C876":"Netherlands Antilles","C653":"New Caledonia","C622":"New Zealand","C879":"Nicaragua","C454":"Niger","C418":"Nigeria","C620":"Niue","C612":"Norfolk Island","C276":"North Macedonia","C176":"Norway","C368":"Oman (formerly Muscat and Oman)","C673":"Pacific Islands","C527":"Pakistan","C669":"Palau","C883":"Panama","C613":"Papua New Guinea","C769":"Paraguay","C774":"Peru","C567":"Philippines","C626":"Pitcairn Island","C277":"Poland","C178":"Portugal","C886":"Puerto Rico","C323":"Qatar","C279":"Romania","C295":"Russia","C456":"Rwanda","C458":"R\u00E9union Island","C433":"Saint Helena","C831":"Saint Kitts and Nevis","C835":"Saint Lucia","C6":"Saint Pierre-Miquelon","C836":"Saint Vincent and the Grenadines","C628":"Samoa (Western)","C168":"San Marino","C478":"Sao Tom\u00E9-Principe","C369":"Saudi Arabia","C482":"Senegal","C274":"Serbia","C435":"Seychelles","C423":"Sierra Leone","C528":"Singapore","C871":"Sint Maarten","C248":"Slovakia","C289":"Slovenia","C623":"Solomon Islands","C374":"Somalia","C419":"South Africa","C378":"South Sudan","C182":"Spain","C513":"Sri Lanka","C377":"Sudan","C777":"Suriname","C177":"Svalbard Islands","C432":"Swaziland","C185":"Sweden","C186":"Switzerland","C379":"Syria","C578":"Taiwan","C296":"Tajikistan","C425":"Tanzania","C583":"Thailand","C557":"Timor-Leste","C486":"Togo","C619":"Tokelau","C627":"Tonga","C828":"Trinidad and Tobago","C487":"Tunisia","C297":"Turkmenistan","C827":"Turks and Caicos Islands","C624":"Tuvalu","C382":"T\u00FCrkiye","C668":"U.S. Minor Outlying Islands","C287":"U.S.S.R.","C426":"Uganda","C286":"Ukraine","C328":"United Arab Emirates","C101":"United Kingdom ","C9":"United States","C782":"Uruguay","C298":"Uzbekistan","C652":"Vanuatu (New Hebrides)","C169":"Vatican City State","C785":"Venezuela","C586":"Vietnam","C887":"Virgin Islands (United States)","C651":"Wallis and Futuna Islands","C485":"Western Sahara","C386":"Yemen","C288":"Yugoslavia  - Serbia and Montenegro","C428":"Zambia (Zambi)","C422":"Zimbabwe"};
+            var regionsListCDN = {"R911":"APEC (detailed)","R910":"APEC (total)","R913":"APEC excl. the Americas (detailed)","R912":"APEC excl. the Americas (total)","R915":"ASEAN (detailed)","R914":"ASEAN (total)","R999":"ASPAC  (detailed)","R998":"ASPAC (total)","R993":"Africa, excl. Middle East (detailed)","R992":"Africa, excl. Middle East (total)","R995":"Asia, excl. Middle East (detailed)","R994":"Asia, excl. Middle East (total)","R931":"Asian Nics or Nies (detailed)","R930":"Asian Nics or Nies (total)","R917":"Central America excl. Mexico (detailed)","R916":"Central America excl. Mexico (total)","R919":"Chinese Economic Area (detailed)","R918":"Chinese Economic Area (total)","R921":"Europe, Eastern (detailed)","R920":"Europe, Eastern (total)","R941":"Europe, Western (detailed)","R940":"Europe, Western (total)","R923":"European Union (detailed)","R922":"European Union (total)","R929":"G8 Countries (detailed)","R928":"G8 Countries (total)","R989":"Latin America, excl. Mexico (detailed)","R988":"Latin America, excl. Mexico (total)","R991":"Middle East (detailed)","R990":"Middle East (total)","R933":"OECD (detailed)","R932":"OECD (total)","R935":"OECD, Countries not part of (detailed)","R934":"OECD, Countries not part of (total)","R937":"OPEC (detailed)","R936":"OPEC (total)","R997":"Oceania (Pacific) (detailed)","R996":"Oceania (Pacific) (total)","R939":"South America (detailed)","R938":"South America (total)","R12":"U.S. Far West Region","R7":"U.S. Great Lakes Region","R6":"U.S. Mideast Region","R5":"U.S. New England Region","R13":"U.S. Other","R8":"U.S. Plains Region","R11":"U.S. Rocky Mountain Region","R9":"U.S. Southeast Region","R10":"U.S. Southwest Region","R927":"U.S.S.R., Countries of former (detailed)","R926":"U.S.S.R., Countries of former (total)"};
+            var stateListCDN = {"SAL":"Alabama","SAK":"Alaska","SAZ":"Arizona","SAR":"Arkansas","SCA":"California","SCO":"Colorado","SCT":"Connecticut","SDE":"Delaware","SDC":"District of Columbia","SFL":"Florida","SGA":"Georgia","SHI":"Hawaii","SID":"Idaho","SIL":"Illinois","SIN":"Indiana","SIA":"Iowa","SKS":"Kansas","SKY":"Kentucky","SLA":"Louisiana","SME":"Maine","SMD":"Maryland","SMA":"Massachusetts","SMI":"Michigan","SMN":"Minnesota","SMS":"Mississippi","SMO":"Missouri","SMT":"Montana","SNE":"Nebraska","SNV":"Nevada","SNH":"New Hampshire","SNJ":"New Jersey","SNM":"New Mexico","SNY":"New York","SNC":"North Carolina","SND":"North Dakota","SOH":"Ohio","SOK":"Oklahoma","SOR":"Oregon","SUS":"Other unspecified U.S. State","SPA":"Pennsylvania","SPR":"Puerto Rico","SRI":"Rhode Island","SSC":"South Carolina","SSD":"South Dakota","STN":"Tennessee","STX":"Texas","SVI":"U.S. Virgin Islands","SUT":"Utah","SVT":"Vermont","SVA":"Virginia","SWA":"Washington","SWV":"West Virginia","SWI":"Wisconsin","SWY":"Wyoming"};
+            var countryRegionStateTopLevelList = {"ALL":"All countries (total)","specific":"Find country, region, or US state","DET":"All countries (detailed)","SALL":"Distribution by state (U.S.)","1":"Re-Imports (Canada)","TOP":"Top 10 countries"};
+            var naAreaOther = {"9999":"Canada","9998":"Distribution by province","9997":"United States"};
+            var naAreaProvince = {"P10":"Newfoundland and Labrador","P11":"Prince Edward Island","P12":"Nova Scotia","P13":"New Brunswick","P24":"Quebec","P35":"Ontario","P46":"Manitoba","P47":"Saskatchewan","P48":"Alberta","P59":"British Columbia","P61":"Northwest Territories","P60":"Yukon Territory","P62":"Nunavut"};
+            var naAreaArea = {"R1":"Atlantic Canada","R2":"Central Canada","R3":"Prairies","R4":"B.C. and Territories"};
+            var countryListUS = {"C5310":"Afghanistan","C4810":"Albania","C7210":"Algeria","C4271":"Andorra","C7620":"Angola","C2481":"Anguilla","C2484":"Antigua and Barbuda","C3570":"Argentina","C4631":"Armenia","C2779":"Aruba","C6021":"Australia","C4330":"Austria","C4632":"Azerbaijan","C2360":"Bahamas","C5250":"Bahrain","C5380":"Bangladesh","C2720":"Barbados","C4622":"Belarus (Byelorussia)","C4231":"Belgium","C2080":"Belize","C7610":"Benin","C2320":"Bermuda","C5682":"Bhutan","C3350":"Bolivia","C4793":"Bosnia and Herzegovina","C7930":"Botswana","C3510":"Brazil","C7810":"British Indian Ocean Territories","C2482":"British Virgin Islands","C5610":"Brunei Darussalam","C4870":"Bulgaria","C7600":"Burkina Faso","C7670":"Burundi","C5550":"Cambodia (Kampuchea)","C7420":"Cameroon","C1220":"Canada","C7643":"Cape Verde","C2440":"Cayman Islands","C7540":"Central African Republic","C7560":"Chad","C3370":"Chile","C5700":"China","C6024":"Christmas Island (Australia)","C6023":"Cocos (Keeling) Islands","C3010":"Colombia","C7890":"Comoros","C7630":"Congo (Brazzaville)","C7660":"Congo (formerly Zaire)","C6142":"Cook Islands","C2230":"Costa Rica","C7480":"Cote d'Ivoire ","C4791":"Croatia","C2390":"Cuba","C2777":"Curacao","C4910":"Cyprus","C4351":"Czech Republic","C4350":"Czechoslovakia (Former)","C4099":"Denmark","C7770":"Djibouti","C2486":"Dominica","C2470":"Dominican Republic","C5601":"East Timor","C3310":"Ecuador","C7290":"Egypt","C2110":"El Salvador","C7380":"Equatorial Guinea","C7741":"Eritrea","C4470":"Estonia","C7749":"Ethiopia","C7740":"Ethiopia ","C4091":"Faeroe Islands","C3720":"Falkland Islands","C6863":"Fiji","C4050":"Finland","C4279":"France","C3170":"French Guiana","C6414":"French Polynesia","C7905":"French Southern Territories","C7550":"Gabon","C7500":"Gambia","C5082":"Gaza Strip","C4633":"Georgia","C4280":"Germany","C4290":"Germany, East","C7490":"Ghana","C4720":"Gibraltar","C4840":"Greece","C1010":"Greenland","C2489":"Grenada","C2831":"Guadeloupe","C2050":"Guatemala","C7460":"Guinea","C7642":"Guinea-Bissau","C3120":"Guyana","C2450":"Haiti","C6029":"Heard and McDonald Island (Australia)","C2150":"Honduras","C5820":"Hong Kong","C4370":"Hungary","C4000":"Iceland","C5330":"India","C5600":"Indonesia","C8500":"International Organizations","C5070":"Iran","C5050":"Iraq","C5160":"Iraq\/Saudi Arabia Neutral Zone","C4190":"Ireland","C5081":"Israel","C4759":"Italy","C2410":"Jamaica","C5880":"Japan","C5110":"Jordan","C4634":"Kazakhstan","C7790":"Kenya","C6226":"Kiribati","C5790":"Korea, North","C5800":"Korea, South","C4803":"Kosovo","C5130":"Kuwait","C4635":"Kyrgyzstan","C5530":"Laos","C4490":"Latvia","C5040":"Lebanon","C7990":"Lesotho","C7650":"Liberia","C7250":"Libya","C4411":"Liechtenstein","C4510":"Lithuania","C4239":"Luxembourg","C5660":"Macau","C7880":"Madagascar","C7970":"Malawi","C5570":"Malaysia","C5683":"Maldives","C7450":"Mali","C4730":"Malta","C6810":"Marshall Islands ","C2839":"Martinique","C7410":"Mauritania","C7850":"Mauritius","C7881":"Mayotte","C2010":"Mexico","C6820":"Micronesia","C4641":"Moldova","C4272":"Monaco","C5740":"Mongolia","C4804":"Montenegro","C2485":"Montserrat","C7140":"Morocco","C7870":"Mozambique","C5460":"Myanmar (Burma)","C7920":"Namibia","C6862":"Nauru","C5360":"Nepal","C4210":"Netherlands","C2771":"Netherlands Antilles (excluding Aruba)","C6412":"New Caledonia","C6141":"New Zealand","C2190":"Nicaragua","C7510":"Niger","C7530":"Nigeria","C6144":"Niue","C6022":"Norfolk Island","C4794":"North Macedonia","C4039":"Norway","C5230":"Oman (Muscat and Oman)","C5350":"Pakistan","C6830":"Palau ","C2250":"Panama","C6040":"Papua New Guinea","C3530":"Paraguay","C3330":"Peru","C5650":"Philippines","C6225":"Pitcairn Island","C4550":"Poland","C4710":"Portugal","C5180":"Qatar","C7904":"Reunion","C4850":"Romania","C4621":"Russia","C7690":"Rwanda","C7370":"Saharan Arab Democratic Republic","C7580":"Saint Helena","C2483":"Saint Kitts and Nevis","C2487":"Saint Lucia","C1610":"Saint Pierre and Miquelon","C2488":"Saint Vincent and the Grenadine","C6150":"Samoa (Western)","C4751":"San Marino","C7644":"Sao Tom\u00E9 and Principe","C5170":"Saudi Arabia","C7440":"Senegal","C4801":"Serbia","C4802":"Serbia (Before 2009)","C7800":"Seychelles","C7470":"Sierra Leone","C5590":"Singapore","C2774":"Sint Maarten","C4359":"Slovakia","C4792":"Slovenia","C6223":"Solomon Islands","C7700":"Somalia","C7910":"South Africa","C4700":"Spain","C5420":"Sri Lanka","C7320":"Sudan","C3150":"Suriname","C4031":"Svalbard Islands","C7950":"Swaziland","C4010":"Sweden","C4419":"Switzerland (including Liechenstein)","C5020":"Syria","C5830":"Taiwan","C4642":"Tajikistan","C7830":"Tanzania","C5490":"Thailand","C7520":"Togo","C6143":"Tokelau","C6864":"Tonga","C2740":"Trinidad and Tobago (Port of Spain)","C7230":"Tunisia","C4643":"Turkmenistan","C2430":"Turks and Caicos Islands","C6227":"Tuvalu","C4890":"T\u00FCrkiye","C4610":"U.S.S.R.","C7780":"Uganda","C4623":"Ukraine","C8220":"Unidentified","C5200":"United Arab Emirates","C4120":"United Kingdom","C3550":"Uruguay","C4644":"Uzbekistan","C6224":"Vanuatu (New Hebrides)","C4752":"Vatican City State","C3070":"Venezuela","C5520":"Vietnam","C6413":"Wallis and Futuna Islands","C5083":"West Bank","C5210":"Yemen","C5220":"Yemen, Democratic","C4790":"Yugoslavia","C4799":"Yugoslavia  - Serbia and Montenegro","C7940":"Zambia (Zambi)","C7960":"Zimbabwe"};
+            var regionsListUS = {"R945":"APEC (detailed)","R944":"APEC (total)","R947":"APEC, excl. the Americas (detailed)","R946":"APEC, excl. the Americas (total)","R949":"ASEAN (detailed)","R948":"ASEAN (total)","R983":"Africa, excl. Middle East (detailed)","R982":"Africa, excl. Middle East (total)","R985":"Asia, excl. Middle East (detailed)","R984":"Asia, excl. Middle East (total)","R965":"Asian Nics or Nies (detailed)","R964":"Asian Nics or Nies (total)","R951":"Central America  (detailed)","R950":"Central America  (total)","R953":"Chinese Economic Area (detailed)","R952":"Chinese Economic Area (total)","R955":"Europe, Eastern (detailed)","R954":"Europe, Eastern (total)","R975":"Europe, Western (detailed)","R974":"Europe, Western (total)","R957":"European Union (detailed)","R956":"European Union (total)","R963":"G8 Countries (detailed)","R962":"G8 Countries (total)","R978":"Latin America, Excl. Mexico (total)","R979":"Latin America, excl. Mexico (detailed)","R981":"Middle East (detailed)","R980":"Middle East (total)","R967":"OECD (detailed)","R966":"OECD (total)","R969":"OECD, Countries not part of (detailed)","R968":"OECD, Countries not part of (total)","R971":"OPEC (detailed)","R970":"OPEC (total)","R987":"Oceania (Pacific) (detailed)","R986":"Oceania (Pacific) (total)","R973":"South America (detailed)","R972":"South America (total)","R961":"U.S.S.R., Countries of former (detailed)","R960":"U.S.S.R., Countries of former (total)"};
+            var stateListUS = {};
+            var currencyOptionList = {"CDN":"$ Canadian (current dollars)","US":"$ U.S. (current dollars)","PC":"% Percentage"};
+            var searchTypeOptionsList = {"All":"Total - all products","KS_CS":"Search for a product","BL":"Browse list of products","Top25":"Top 25 products (HS6 codes)","Top25_4":"Top 25 product groups (HS4 codes)","Top25_2":"Top 25 chapters (HS2 codes)"};
+            var timePeriodOptionsList = {"5|Complete Years":"Latest 5 years","10|Complete Years":"Latest 10 years","|Custom Years":"Specific year(s)","2|Year To Date":"Year to date","24|Monthly Trends":"Latest 24 months"};
+            var selectedCodesList = {};
+            var searchTypeOptionsList = {"All":"Total - all products","KS_CS":"Search for a product","BL":"Browse list of products","Top25":"Top 25 products (HS6 codes)","Top25_4":"Top 25 product groups (HS4 codes)","Top25_2":"Top 25 chapters (HS2 codes)"};
+            
+            var customYearsCodesUrl = "\/app\/ixb\/tdo\/customYearCodes.json";
+            var browseListUrl = "\/app\/ixb\/tdo\/browseList.json";
+            var searchKeywordUrl = "\/app\/ixb\/tdo\/searchCodes.json";
+           
+            var messages = {_required : "(required)",
+                    _action : "Action",
+                    _description : "Description",
+                    _country_region_state : "Country, area or state",
+                    _country_selection : "Selection",
+                    _add : "Add",
+                    _1174 : "No codes selected.",
+                    _yourSelectedCodes : "Your selected product(s)",
+                    _delete : "Remove",
+                    _country : "Specific country",
+                    _regions : "Economic areas\/unions",
+                    _state : "Individual US state",
+                    _specific : "Find country, region, or US state",
+                    _noselection : "-- None --",
+                    _parentAndChildError : "Some of your options cannot be used together. For example: {2} is a child of {1} and these cannot be selected together. Select either the parent, {1}, or one or more of it\u0026#39;s children.",
+                    _noSelectionError : "Some of your options cannot be used together. For example: {2} is a child of {1} and these cannot be selected together. Select either the parent, {1}, or one or more of it\u0026#39;s children.",
+                    _reportCriteriaAllCodesFiltered : "No more valid codes in search results.",
+                    _searchCount : "Product list:",
+                    _report_criteria_atLeastOneCountry : "Add at least one country, area or state.",
+                    _trading_partner_selection_required : "The Selection field is required.",
+                    _report_criteria_naarea_province : "Provinces",
+                    _report_criteria_naarea_area : "Areas\/Regions"
+            };
+            var settings = {continueButton: "Yes",
+        	    cancelButton: "No", 
+        	    dialogTitle: "Do you want to switch Trader?", 
+        	    dialogText: "By switching Trader between Canada (Canadian province or a Canadian areas\/region) and the United States all items added under the Trading Partner > Specific country\/area\/us state section will be removed.<br\/><br\/>Do you want to switch Trader? ", 
+        	    contextRoot: ""};
+
+            /* ]]> */
+           var countryList, regionsList, stateList = new Map(); 
+    </script></div>
+
+			</form>
+		</div>
+	</div>
+      <!-- end main content -->
+      <div id="def-preFooter">
+        <!-- Write closure fall-back static file -->
+        <div><div class="pagedetails">
+	<div class="row">
+		<div class="col-sm-6 col-md-5 col-lg-4">
+			<a href="https://www.canada.ca/en/report-problem.html" class="btn btn-default text-center">Report a problem on this page</a>
+		</div>
+	</div>
+	<!-- Share button -->
+	<!-- <div class="wb-share col-sm-4 col-md-3 col-sm-offset-2 col-md-offset-4 col-lg-offset-5" data-wb-share='{"lnkClass": "btn btn-default btn-block"}'></div> -->
+	<!-- END Share button -->
+	<dl id="wb-dtmd">
+		<dt>Date modified: </dt>
+		<dd><time property="dateModified">2019-03-01</time></dd>
+	</dl>
+</div>
+</div>
+      </div>
+      <!-- Write closure template -->
+      <script>
+        /*<![CDATA[*/
+        var defPreFooter = document.getElementById("def-preFooter");
+        defPreFooter.outerHTML = wet.builder.preFooter({
+            cdnEnv: "Akamai",
+            dateModified: "2023-10-25",
+            showPostContent: true, 
+            showFeedback: false,
+            showShare: false
+        });
+        /*]]>*/
+      </script>
+    </main>    
+    <div id="def-footer">
+      <!-- Write closure fall-back static file -->
+      <div>		<footer id="wb-info">
+			<div class="landscape">
+				<nav class="container wb-navcurr">
+					<h2 class="wb-inv">About government</h2>
+					<ul class="list-unstyled colcount-sm-2 colcount-md-3">
+						<li><a href="https://www.canada.ca/en/contact.html">Contact us</a></li>
+						<li><a href="https://www.canada.ca/en/government/dept.html">Departments and agencies</a></li>
+						<li><a href="https://www.canada.ca/en/government/publicservice.html">Public service and military</a></li>
+						<li><a href="https://www.canada.ca/en/news.html">News</a></li>
+						<li><a href="https://www.canada.ca/en/government/system/laws.html">Treaties, laws and regulations</a></li>
+						<li><a href="https://www.canada.ca/en/transparency/reporting.html">Government-wide reporting</a></li>
+						<li><a href="http://pm.gc.ca/eng">Prime Minister</a></li>
+						<li><a href="https://www.canada.ca/en/government/system.html">How government works</a></li>
+						<li><a href="http://open.canada.ca/en/">Open government</a></li>
+					</ul>
+				</nav>
+			</div>
+			<div class="brand">
+				<div class="container">
+					<div class="row">
+						<nav class="col-md-10 ftr-urlt-lnk">
+							<h2 class="wb-inv">About this site</h2>
+							<ul>
+								<li><a href="https://www.canada.ca/en/social.html">Social media</a></li>
+								<li><a href="https://www.canada.ca/en/mobile.html">Mobile applications</a></li>
+								<li><a href="https://www1.canada.ca/en/newsite.html">About Canada.ca</a></li>
+								<li><a href="https://www.canada.ca/en/transparency/terms.html">Terms and conditions</a></li>
+								<li><a href="https://www.canada.ca/en/transparency/privacy.html">Privacy</a></li>
+							</ul>
+						</nav>
+						<div class="col-xs-6 visible-sm visible-xs tofpg">
+							<a href="#wb-cont">Top of Page <span class="glyphicon glyphicon-chevron-up"></span></a>
+						</div>
+						<div class="col-xs-6 col-md-2 text-right">
+							<img src="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/assets/wmms-blk.svg" alt="Symbol of the Government of Canada" />
+							<meta property="areaServed" typeOf="Country" content="Canada" />
+							<link property="logo" href="https://www.canada.ca/etc/designs/canada/cdts/gcweb/v4_0_32/assets/wmms-blk.svg" />
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+</div>
+    </div>        
+    <!-- Write closure template -->
+    <script>
+      /*<![CDATA[*/
+      var defFooter = document.getElementById("def-footer");
+      defFooter.outerHTML = wet.builder.footer({
+          cdnEnv: "Akamai",
+          showFooter:true,
+          showFeatures: false,
+          contactLinks: null
+          //termsLink: /*null*/ "/",
+          //privacyLink: /*null*/ "/" 
+      });
+      /*]]>*/
+    </script>
+    <!-- Write closure template -->
+    <script>
+      /*<![CDATA[*/
+      document.write(wet.builder.refFooter({
+          cdnEnv: "Akamai",
+          jqueryEnv: "false",
+          exitScript: false,
+          exitURL: "",
+          exitMsg: "You are about to leave a secure site, do you wish to continue?",
+          exitDomains: ""
+      }));
+      /*]]>*/
+    </script>         
+    <!-- Additional JavaScript includes.  Added through jsLibraryIncludes model attribute. -->
+          
+    
+    <!-- Additional JavaScript includes.  Added through jsIncludes model attribute. -->
+      
+    <script type="text/javascript" src="js/utils.js"></script>
+      
+    <script type="text/javascript" src="js/codeValidation.js"></script>
+      
+    <script type="text/javascript" src="js/dropdownFiltering.js"></script>
+      
+    <script type="text/javascript" src="js/criteriaFormCodeSearch.js"></script>
+      
+    <script type="text/javascript" src="js/criteriaFormCountryRegionState.js"></script>
+      
+    <script type="text/javascript" src="js/changeCriteria.js"></script>
+      
+    <script type="text/javascript" src="js/selectedCodeDescriptions.js"></script>
+      
+    <script type="text/javascript" src="js/siteimprove.js"></script>
+      
+    <script type="text/javascript" src="js/googleTagManager.js"></script>
+      
+    <script type="text/javascript" src="js/surveyPopup.js"></script>
+      
+    
+    <script type="text/javascript" src="/app/ixb/tdo/js/breadcrumbs.js" ></script>
+    
+    <!-- Additional analytics, if required. -->
+     <!-- No additional analytics. -->     
+  </body>
+</html>

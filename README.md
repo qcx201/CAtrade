@@ -12,3 +12,12 @@ The first daughter was not spared the Trudeau photo trap either. One viral tweet
 
 
 These memes are all ridiculous and hilarious, of course. And now we have a trade war.
+
+Mark Carney, who will replace Trudeau as Prime Minister and leader of the Liberal Party, said after his election that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs.
+
+So how might this play out for Canadian industries?
+
+TODO/might-dos:
+* Descriptive figures of balance of payments by industry for Canada and main trade partners
+* General equilibrium (SOE) model with tariffs
+* DSGE (NOEM) model

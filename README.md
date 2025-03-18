@@ -9,7 +9,7 @@ Canada's contribution to US border problem is negligeable. Less than xx% illegal
 
 The trade deficit with Canada is dwarfed by those of other US trade partners like China and Germany. [source]
 
-So why did he really start all this trouble? My pet theory is that he did not like being cuckholded by Justin Trudeau.
+So why did he really start all this trouble? My pet theory is that he did not like being cuckolded by Justin Trudeau.
 
 It goes back to a G7 summit in 2019, where a photo of Trudeau kissing Melania, with an oblivious Trump holding her hand, went viral. One French news outlet (of course) lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo)
 
@@ -36,17 +36,16 @@ Canada's top 10 <u>net</u> import partners (2024) | Canada's top 10 <u>net</u> e
 
 To understand how Canada's trade balance might evolve under the tariffs, let's look back at the good old days of 2024--the most recent year of the pre-Trump trade regime.
 
-The picture is quite clear that Canada's trade activities are heavily reliant on the US. In 2024, imports from the US totaled $360 billion, constituting about half of all $744 billion Canadian imports. Canadian imports from the entire [European Economic Area plus UK and Switzerland (EEA+)](https://www.gov.uk/eu-eea) totaled $103 billion, less than a third of US imports, and China follows as the next largest single country importer to Canada at $88 billion. Canada exports overwhelmingly to the US, totaling $569 billion. This is about three-quarters of the $751 billion total Canadian exports.
+In 2024, imports from the US totaled $360 billion, constituting about half of all $744 billion Canadian imports. Canadian imports from the entire [European Economic Area plus UK and Switzerland (EEA+)](https://www.gov.uk/eu-eea) totaled $103 billion, less than a third of US imports. China follows as the next largest single country importer to Canada at $88 billion.
 
+About three-quarters of Canadian exports go to the US ($569 billion).
+
+The picture is quite clear that Canada's trade activities are heavily reliant on the US. 
 
 Canada's top 10 import partners (2024) | Canada's top 10 export partners (2024)
 :-------------------------:|:-------------------------:
 ![alt text](./figures/03-import_partners.png "Canada's top 10 import partners (2024).")  |  ![alt text](./figures/03-export_partners.png "Canada's top 10 export partners (2024)")
 
-
-
-
-## 
 
 <!--
 TODO:

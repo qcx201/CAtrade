@@ -20,7 +20,7 @@ The first daughter was not spared the Trudeau photo trap either. One viral tweet
 ![17419573798756131767425569568346](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578)
 
 
-Say what you will about Trudeau, but our boy is handsome. However ridiculous (and hilarious) these allegations, we now have a trade war.
+Say what you will about Trudeau, but our boy is handsome. However ridiculous (and hilarious) these allegations or any other justification, we now have a trade war.
 
 Mark Carney, the new Prime Minister and leader of the Liberal Party replacing Trudeau, said after his election that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs.
 

@@ -1,5 +1,5 @@
-# Canada's Trade War
-2025-03-xx | QC Xie
+# The US-Canada Trade War: a prospectus (draft)
+2025-03-xx | Author: QCX
 
 Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be: for no good reason.
 
@@ -20,13 +20,37 @@ The first daughter was not spared the Trudeau photo trap either. One viral tweet
 ![17419573798756131767425569568346](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578)
 
 
-Say what you will about Trudeau, but our boy is handsome. However ridiculous (and hilarious) these allegations or any other justification, we now have a trade war.
+Say what you will about Trudeau, but our boy is handsome. However ridiculous (and hilarious) these allegations or any other justification are, we now have a trade war.
 
 Mark Carney, the new Prime Minister and leader of the Liberal Party replacing Trudeau, said after his election that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs.
 
 So how might this play out for Canadian industries and ? Let's first take a look at the current state of affairs between Canada and its main trade partners. Then we'll discuss how the proposed tariffs and counter-tariffs may influence Canada's trade patterns and the effect on jobs, wages, and prices.
 
-TODO/might-dos:
+## Canada's trade partners
+
+<!-- 
+Canada's top 10 <u>net</u> import partners (2024) | Canada's top 10 <u>net</u> export partners (2024)
+:-------------------------:|:-------------------------:
+![alt text](./figures/03-net_import_partners.png)  |  ![alt text](./figures/03-net_export_partners.png)
+ -->
+
+To understand how Canada's trade balance might evolve under the tariffs, let's look back at the good old days of 2024--the most recent year of the pre-Trump trade regime.
+
+The picture is quite clear that Canada's trade activities are heavily reliant on the US. In 2024, imports from the US totaled $360 billion, constituting about half of all $744 billion Canadian imports. Canadian imports from the entire [European Economic Area plus UK and Switzerland (EEA+)](https://www.gov.uk/eu-eea) totaled $103 billion, less than a third of US imports, and China follows as the next largest single country importer to Canada at $88 billion. Canada exports overwhelmingly to the US, totaling $569 billion. This is about three-quarters of the $751 billion total Canadian exports.
+
+
+Canada's top 10 import partners (2024) | Canada's top 10 export partners (2024)
+:-------------------------:|:-------------------------:
+![alt text](./figures/03-import_partners.png "Canada's top 10 import partners (2024).")  |  ![alt text](./figures/03-export_partners.png "Canada's top 10 export partners (2024)")
+
+
+
+
+## 
+
+<!--
+TODO:
 * Descriptive figures of balance of payments by industry for Canada and main trade partners
 * General equilibrium (SOE) model with tariffs
 * DSGE (NOEM) model
+-->

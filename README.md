@@ -10,7 +10,7 @@ Canada's contribution to US border problem is negligeable. Less than xx% illegal
 
 The trade deficit with Canada is dwarfed by those of other US trade partners like China and Germany. [source]
 
-So why did he really start all this trouble? My pet theory is that he did not like being cuckolded by Justin Trudeau.
+So why did he really start all this trouble? My favourite pet theory is that he did not like being [cuckolded](https://www.urbandictionary.com/define.php?term=Cuckold) by Justin Trudeau.
 
 It goes back to a G7 summit in 2019, where a photo of Trudeau kissing Melania, with an oblivious Trump holding her hand, went viral. One French news outlet (of course) lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo)
 
@@ -26,17 +26,20 @@ The first daughter was not spared the Trudeau photo trap either. One viral tweet
 <img src="https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578" alt="Ivanka Trump and Justin Trudeau at a roundtable discussion at the White House on Monday. Photograph: Saul Loeb/AFP/Getty Images" width="600"/>
 </div>
 
-Say what you will about Trudeau, but our boy is handsome. However ridiculous (and hilarious) these allegations or any other justification are, we now have a trade war between Canada and the US, its closest historical trade partner.
+Say what you will about Trudeau, but our boy is handsome. And there is definitely animosity there from the big man in DC.
+
+However ridiculous (and hilarious) these or other reasons are, Canada is now in a trade war against the US, its closest historical trade partner.
 
 Mark Carney, the new Prime Minister and leader of the Liberal Party replacing Trudeau, said after his election that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs.
 
 How might this play out for Canadian industries and workers? Let's first take a look at the current state of affairs between Canada and its main trade partners. Then we'll discuss how the proposed tariffs and counter-tariffs may influence Canada's trade patterns and the effect on jobs, wages, and prices using a simple open economy general equilibrium model.
 
+
 ## Canada's Trade Partners
 
-To understand how Canada's trade balance might evolve under the tariffs, let's first look back at the good old days of 2024, the most recent year of the pre-Trump trade regime.
+To understand how Canada's trade balance might evolve under the tariffs, let's first look back at the good old days of 2024, the most recent year before the Trump regime.
 
-In 2024, imports from the US totaled $360 billion, constituting about half of all $744 billion Canadian imports. Canadian imports from the entire [European Economic Area plus UK and Switzerland](https://www.gov.uk/eu-eea) (EEA+ for short; these are pretty much the Western European countries) totaled $103 billion, less than a third of US imports. After US, China is the next largest single country import partner to Canada at $88 billion.
+In 2024, imports from the US totaled $360 billion, constituting about half of all $744 billion Canadian imports. Canadian imports from the entire [European Economic Area plus UK and Switzerland](https://www.gov.uk/eu-eea) (EEA+ for short; these are pretty much the Western European countries) totaled $103 billion, less than a third of US imports. After the US, China is the next largest single-country import partner to Canada at $88 billion.
 
 <figure>
     <figcaption align="center" style="font-size:16">
@@ -46,7 +49,7 @@ In 2024, imports from the US totaled $360 billion, constituting about half of al
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-About three-quarters of Canadian exports ($751 billion) went to the US ($569 billion), dwarfing Western Europe's $70 billion in total Canadian exports. The next largest single-country export partners are China and UK, receiving a little less than $30 billion of Canadian exports in each country.
+About three-quarters of total Canadian exports ($751 billion) went to the US ($569 billion), dwarfing Western Europe's $70 billion. The next largest single-country export partners are China and UK, receiving a little less than $30 billion of Canadian exports in each country.
 
 <figure>
     <figcaption align="center" style="font-size:16">

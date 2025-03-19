@@ -45,12 +45,23 @@ To understand how Canada's trade balance might evolve under the tariffs, let's l
 
 In 2024, imports from the US totaled $360 billion, constituting about half of all $744 billion Canadian imports. Canadian imports from the entire [European Economic Area plus UK and Switzerland (EEA+)](https://www.gov.uk/eu-eea) totaled $103 billion, less than a third of US imports. After US, China is the next largest single country import partner to Canada at $88 billion.
 
-
-!["Canada's top 10 import partners (2024)"](./figures/03-import_partners.png)
+<figure>
+    <figcaption align="center" style="font-size:16">
+        <b>Canada's Top Import Partners (2024)</b>
+    </figcaption>
+    <img src='./figures/03-import_partners.png'/>
+    <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
+</figure>
 
 About three-quarters of Canadian exports ($751 billion) went to the US ($569 billion), dwarfing EEA+'s $70 billion Canadian exports. The next largest single-country export partners are China and UK, importing a little less than $30 billion of Canadian exports each.
 
-!["Canada's top 10 export partners (2024)"](./figures/03-export_partners.png)
+<figure>
+    <figcaption align="center" style="font-size:16">
+        <b>Canada's Top Export Partners (2024)</b>
+    </figcaption>
+        <img src='./figures/03-export_partners.png'/>
+    <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
+</figure>
 
 It's quite clear that Canada's trade activities are heavily reliant on the US. Not going to lie, the prognostication looks quite grim. But how bad will it be? Well let's see what the tariffs will be.
 

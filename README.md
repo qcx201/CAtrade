@@ -20,7 +20,6 @@ It goes back to a G7 summit in 2019, where a photo of Trudeau kissing Melania, w
 </div>
 
 
-
 The first daughter was not spared the Trudeau photo trap either. One viral tweeter wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snap of Ivanka gazing at the PM with a pondering hand on her chin.
 
 <div style="text-align: center; width: 100%;">
@@ -37,7 +36,7 @@ How might this play out for Canadian industries and workers? Let's first take a 
 
 To understand how Canada's trade balance might evolve under the tariffs, let's first look back at the good old days of 2024, the most recent year of the pre-Trump trade regime.
 
-In 2024, imports from the US totaled $360 billion, constituting about half of all $744 billion Canadian imports. Canadian imports from the entire [European Economic Area plus UK and Switzerland (EEA+)](https://www.gov.uk/eu-eea) totaled $103 billion, less than a third of US imports. After US, China is the next largest single country import partner to Canada at $88 billion.
+In 2024, imports from the US totaled $360 billion, constituting about half of all $744 billion Canadian imports. Canadian imports from the entire [European Economic Area plus UK and Switzerland](https://www.gov.uk/eu-eea) (EEA+ for short; these are pretty much the Western European countries) totaled $103 billion, less than a third of US imports. After US, China is the next largest single country import partner to Canada at $88 billion.
 
 <figure>
     <figcaption align="center" style="font-size:16">
@@ -47,7 +46,7 @@ In 2024, imports from the US totaled $360 billion, constituting about half of al
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-About three-quarters of Canadian exports ($751 billion) went to the US ($569 billion), dwarfing EEA+'s $70 billion Canadian exports. The next largest single-country export partners are China and UK, importing a little less than $30 billion of Canadian exports each.
+About three-quarters of Canadian exports ($751 billion) went to the US ($569 billion), dwarfing Western Europe's $70 billion in total Canadian exports. The next largest single-country export partners are China and UK, receiving a little less than $30 billion of Canadian exports in each country.
 
 <figure>
     <figcaption align="center" style="font-size:16">
@@ -57,21 +56,21 @@ About three-quarters of Canadian exports ($751 billion) went to the US ($569 bil
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-Looking back over the past 25 years, there is a trend towards diversifying trade away from the US for imports.
+Looking back over the past 25 years, there is a trend towards diversifying trade away from the US for imports. [say more here]
 
 <figure>
     <figcaption align="center" style="font-size:16">
-        <b>Import Partners Share in Canada</b>
+        <b>Canadian Import Partners Shares</b>
     </figcaption>
         <img src='./figures/03-importshare.png'/>
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-There is a trend of diversifying from US, but much less pronouced compared to imports. 
+There is also a trend of diversifying from US, but much less pronouced compared to imports. Shares of exports to the US [say more here]
 
 <figure>
     <figcaption align="center" style="font-size:16">
-        <b>Export Partners Share in Canada</b>
+        <b>Canadian Export Partners Shares</b>
     </figcaption>
         <img src='./figures/03-exportshare.png'/>
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>

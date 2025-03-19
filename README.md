@@ -27,21 +27,15 @@ The first daughter was not spared the Trudeau photo trap either. One viral tweet
 <img src="https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578" alt="Ivanka Trump and Justin Trudeau at a roundtable discussion at the White House on Monday. Photograph: Saul Loeb/AFP/Getty Images" width="600"/>
 </div>
 
-Say what you will about Trudeau, but our boy is handsome. However ridiculous (and hilarious) these allegations or any other justification are, we now have a trade war.
+Say what you will about Trudeau, but our boy is handsome. However ridiculous (and hilarious) these allegations or any other justification are, we now have a trade war between Canada and the US, its closest historical trade partner.
 
 Mark Carney, the new Prime Minister and leader of the Liberal Party replacing Trudeau, said after his election that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs.
 
-So how might this play out for Canadian industries and ? Let's first take a look at the current state of affairs between Canada and its main trade partners. Then we'll discuss how the proposed tariffs and counter-tariffs may influence Canada's trade patterns and the effect on jobs, wages, and prices using a simple economic model.
+How might this play out for Canadian industries and workers? Let's first take a look at the current state of affairs between Canada and its main trade partners. Then we'll discuss how the proposed tariffs and counter-tariffs may influence Canada's trade patterns and the effect on jobs, wages, and prices using a simple open economy general equilibrium model.
 
 ## Canada's Trade Partners
 
-<!-- 
-Canada's top 10 <u>net</u> import partners (2024) | Canada's top 10 <u>net</u> export partners (2024)
-:-------------------------:|:-------------------------:
-![alt text](./figures/03-net_import_partners.png)  |  ![alt text](./figures/03-net_export_partners.png)
- -->
-
-To understand how Canada's trade balance might evolve under the tariffs, let's look back at the good old days of 2024--the most recent year of the pre-Trump trade regime.
+To understand how Canada's trade balance might evolve under the tariffs, let's first look back at the good old days of 2024, the most recent year of the pre-Trump trade regime.
 
 In 2024, imports from the US totaled $360 billion, constituting about half of all $744 billion Canadian imports. Canadian imports from the entire [European Economic Area plus UK and Switzerland (EEA+)](https://www.gov.uk/eu-eea) totaled $103 billion, less than a third of US imports. After US, China is the next largest single country import partner to Canada at $88 billion.
 
@@ -73,7 +67,7 @@ Looking back over the past 25 years, there is a trend towards diversifying trade
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-There is a trend of diversifying from US. The 
+There is a trend of diversifying from US, but much less pronouced compared to imports. 
 
 <figure>
     <figcaption align="center" style="font-size:16">

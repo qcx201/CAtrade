@@ -1,0 +1,102 @@
+{
+  "Africa": {
+    "Northern Africa": [
+      "Algeria", "Egypt", "Libya", "Mauritania", "Morocco", "Sudan", "Tunisia", "Western Sahara"
+    ],
+    "Sub-Saharan Africa": [
+      "Angola", "Benin", "Botswana", "Burkina Faso", "Burundi", "Cameroon", "Cape Verde",
+      "Central African Republic", "Chad", "Comoros", "Congo (Brazzaville)", "Congo (Zaire)",
+      "Côte-d'Ivoire", "Djibouti", "Equatorial Guinea", "Eritrea", "Eswatini (Swaziland)",
+      "Ethiopia", "Gabon", "Gambia", "Ghana", "Guinea", "Guinea-Bissau", "Kenya", "Lesotho",
+      "Liberia", "Madagascar", "Malawi", "Mali", "Mauritius", "Mozambique", "Namibia", "Niger",
+      "Nigeria", "Rwanda", "São Tomé and Príncipe", "Senegal", "Seychelles", "Sierra Leone",
+      "Somalia", "South Africa", "South Sudan", "Tanzania", "Togo", "Uganda", "Zambia", "Zimbabwe"
+    ]
+  },
+  "Asia": {
+    "East Asia": [
+      "China", "Hong Kong", "Japan", "Macau (Macao)", "Mongolia", "North Korea", "South Korea", "Taiwan"
+    ],
+    "Southeast Asia": [
+      "Brunei Darussalam", "Cambodia", "Indonesia", "Laos", "Malaysia", "Myanmar (Burma)",
+      "Philippines", "Singapore", "Thailand", "Timor-Leste", "Vietnam"
+    ],
+    "South Asia": [
+      "Afghanistan", "Bangladesh", "Bhutan", "India", "Maldives", "Nepal", "Pakistan", "Sri Lanka"
+    ],
+    "Central Asia": [
+      "Kazakhstan", "Kyrgyzstan", "Tajikistan", "Turkmenistan", "Uzbekistan"
+    ],
+    "Western Asia (Middle East)": [
+      "Armenia", "Azerbaijan", "Bahrain", "Cyprus", "Georgia", "Iran", "Iraq", "Israel",
+      "Jordan", "Kuwait", "Lebanon", "Oman", "Qatar", "Saudi Arabia", "Syria",
+      "Turkey (Türkiye)", "United Arab Emirates", "Yemen"
+    ]
+  },
+  "Europe": {
+    "Northern Europe": [
+      "Denmark", "Estonia", "Faeroe Islands", "Finland", "Greenland", "Iceland", "Ireland",
+      "Latvia", "Lithuania", "Norway", "Sweden", "United Kingdom"
+    ],
+    "Western Europe": [
+      "Andorra", "Austria", "Belgium", "France (incl. Monaco, French Antilles)", "Germany",
+      "Luxembourg", "Netherlands", "Switzerland"
+    ],
+    "Southern Europe": [
+      "Albania", "Greece", "Italy (incl. Vatican City State)", "Malta", "Portugal", "Spain"
+    ],
+    "Eastern Europe": [
+      "Belarus", "Bosnia and Herzegovina", "Bulgaria", "Croatia", "Czech Republic", "Hungary",
+      "Moldova", "North Macedonia", "Poland", "Romania", "Russia", "Serbia", "Slovakia",
+      "Slovenia", "Ukraine", "Montenegro"
+    ],
+    "Transcontinental (Europe/Asia)": ["Turkey (Türkiye)"]
+  },
+  "North America": {
+    "Mainland North America": [
+      "Canada", "Mexico", "United States"
+    ],
+    "Central America": [
+      "Belize", "Costa Rica", "El Salvador", "Guatemala", "Honduras", "Nicaragua", "Panama"
+    ],
+    "Caribbean": [
+      "Anguilla", "Antigua and Barbuda", "Aruba", "Bahamas", "Barbados", "Bermuda",
+      "British Virgin Islands", "Cayman Islands", "Cuba", "Dominica", "Dominican Republic",
+      "Grenada", "Haiti", "Jamaica", "Montserrat", "Netherlands Antilles", "Saint Kitts and Nevis",
+      "Saint Lucia", "Saint Pierre and Miquelon", "Saint Vincent and the Grenadines",
+      "Trinidad and Tobago", "Turks and Caicos Islands"
+    ]
+  },
+  "South America": [
+    "Argentina", "Bolivia", "Brazil", "Chile", "Colombia", "Ecuador", "Guyana", "Paraguay",
+    "Peru", "Suriname", "Uruguay", "Venezuela"
+  ],
+  "Oceania": {
+    "Australia and New Zealand": [
+      "Australia", "New Zealand"
+    ],
+    "Melanesia": [
+      "Fiji", "New Caledonia", "Papua New Guinea", "Solomon Islands", "Vanuatu"
+    ],
+    "Micronesia": [
+      "Guam", "Kiribati", "Nauru"
+    ],
+    "Polynesia": [
+      "American Samoa", "Cook Islands", "French Polynesia", "Niue", "Pitcairn Island",
+      "Samoa (Western)", "Tonga", "Tuvalu", "Wallis and Futuna Islands"
+    ],
+    "Territories": [
+      "Christmas Island", "Cocos (Keeling) Islands", "Norfolk Island", "U.S. Minor Outlying Islands"
+    ]
+  },
+  "Antarctica": [
+    "Antarctica"
+  ],
+  "Other / Special Categories": {
+    "Uncategorized Territories & Miscellaneous": [
+      "Bouvet Island", "Falkland Islands", "Gibraltar", "Heard and McDonald Islands", "High Seas",
+      "Re-Imports (Canada)", "British Indian Ocean Territories", "French Southern Territories",
+      "Saint Helena"
+    ]
+  }
+}

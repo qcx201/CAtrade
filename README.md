@@ -1,4 +1,4 @@
-# The US-Canada Trade War: a prospectus (draft)
+# A prospectus on the US-Canada Trade War (draft)
 
 Author: Q.C. Xie | First published: 2025-03-xx | Last edited: 2025-03-xx
 

@@ -31,9 +31,9 @@ Say what you will about Trudeau, but our boy is handsome. However ridiculous (an
 
 Mark Carney, the new Prime Minister and leader of the Liberal Party replacing Trudeau, said after his election that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs.
 
-So how might this play out for Canadian industries and ? Let's first take a look at the current state of affairs between Canada and its main trade partners. Then we'll discuss how the proposed tariffs and counter-tariffs may influence Canada's trade patterns and the effect on jobs, wages, and prices.
+So how might this play out for Canadian industries and ? Let's first take a look at the current state of affairs between Canada and its main trade partners. Then we'll discuss how the proposed tariffs and counter-tariffs may influence Canada's trade patterns and the effect on jobs, wages, and prices using a simple economic model.
 
-## Canada's past trade patterns
+## Canada's Trade Partners
 
 <!-- 
 Canada's top 10 <u>net</u> import partners (2024) | Canada's top 10 <u>net</u> export partners (2024)
@@ -63,7 +63,31 @@ About three-quarters of Canadian exports ($751 billion) went to the US ($569 bil
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-It's quite clear that Canada's trade activities are heavily reliant on the US. Not going to lie, the prognostication looks quite grim. But how bad will it be? Well let's see what the tariffs will be.
+Looking back over the past 25 years, there is a trend towards diversifying trade away from the US for imports.
+
+<figure>
+    <figcaption align="center" style="font-size:16">
+        <b>Import Partners Share in Canada</b>
+    </figcaption>
+        <img src='./figures/03-importshare.png'/>
+    <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
+</figure>
+
+There is a trend of diversifying from US. The 
+
+<figure>
+    <figcaption align="center" style="font-size:16">
+        <b>Export Partners Share in Canada</b>
+    </figcaption>
+        <img src='./figures/03-exportshare.png'/>
+    <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
+</figure>
+
+
+It's quite clear that Canada's trade activities are heavily reliant on the US, especially in terms of exports. That likely means a lot of Canadian producers will be heavily hit by the tariffs, which limit their access to the largest consumer market in the world. Not going to lie, the prognostication looks quite grim. But how bad will it be? Well first let's see which sectors are going to be effected and what the tariffs are.
+
+## Trade Sectors and Tariffs
+
 
 <!-- 
 <style>

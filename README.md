@@ -13,12 +13,18 @@ So why did he really start all this trouble? My pet theory is that he did not li
 
 It goes back to a G7 summit in 2019, where a photo of Trudeau kissing Melania, with an oblivious Trump holding her hand, went viral. One French news outlet (of course) lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo)
 
-![17419571876917273145787676281070](https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4)
+
+<div style="text-align: center; width: 100%;">
+<img src="https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4" alt="Justin Trudeau and Melania Trump stand next to Donald Trump in Biarritz, France, on 25 August. Photograph: Carlos Barría/Reuters" width="600"/>
+</div>
+
+
 
 The first daughter was not spared the Trudeau photo trap either. One viral tweeter wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snap of Ivanka gazing at the PM with a pondering hand on her chin.
 
-![17419573798756131767425569568346](https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578)
-
+<div style="text-align: center; width: 100%;">
+<img src="https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578" alt="Ivanka Trump and Justin Trudeau at a roundtable discussion at the White House on Monday. Photograph: Saul Loeb/AFP/Getty Images" width="600"/>
+</div>
 
 Say what you will about Trudeau, but our boy is handsome. However ridiculous (and hilarious) these allegations or any other justification are, we now have a trade war.
 

@@ -1,4 +1,4 @@
-# A prospectus on the US-Canada Trade War (draft)
+# A prospectus on the Canada-US Trade War (draft)
 
 Author: Q.C. Xie | First published: 2025-03-xx | Last edited: 2025-03-xx
 
@@ -6,13 +6,13 @@ Why did Donald Trump start an unnecessary trade war with Canada? The consensus s
 
 His formal justifications are nebulous, but hover around border security and the US trade deficit with Canada. These reasons, however, are either detached from reality or based on a flawed understanding of how bilateral trade works.
 
-Canada's contribution to US border problem is negligeable. Less than xx% illegal migrants come from Canada. Less than 1% of fentaly in the US comes from Canada. [source] Almost a rounding error.
+Canada's contribution to US border problem is negligeable. Less than xx% illegal migrants come from Canada, and less than 1% of fentanyl in the US comes from Canada. [source] Almost a rounding error.
 
 The trade deficit with Canada is dwarfed by those of other US trade partners like China and Germany. [source]
 
-So why did he really start all this trouble? My favourite pet theory is that he did not like being [cuckolded](https://www.urbandictionary.com/define.php?term=Cuckold) by Justin Trudeau.
+So why did he really start all this trouble? My favourite pet theory is that he did not like being [cuckolded](https://www.urbandictionary.com/define.php?term=Cuckold) by Justin Trudeau (even though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3)).
 
-It goes back to a G7 summit in 2019, where a photo of Trudeau kissing Melania, with an oblivious Trump holding her hand, went viral. One French news outlet (of course) lead with the headline, ["Look of lust."](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo)
+It goes back to a G7 summit in 2019, where a photo went viral of Trudeau kissing First Lady Melania Trump while she held the hand of the oblivious President. One French (of course) news outlet reporting on this lead with ["look of lust"](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo) in the headline.
 
 
 <div style="text-align: center; width: 100%;">
@@ -20,17 +20,17 @@ It goes back to a G7 summit in 2019, where a photo of Trudeau kissing Melania, w
 </div>
 
 
-The first daughter was not spared the Trudeau photo trap either. One viral tweeter wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snap of Ivanka gazing at the PM with a pondering hand on her chin.
+The first daughter was not spared the Trudeau photo trap either. Following Trudeau's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying this snap of Ivanka Trump gazing at the Prime Minister with a pondering hand on her chin.
 
 <div style="text-align: center; width: 100%;">
 <img src="https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578" alt="Ivanka Trump and Justin Trudeau at a roundtable discussion at the White House on Monday. Photograph: Saul Loeb/AFP/Getty Images" width="600"/>
 </div>
 
-Say what you will about Trudeau, but our boy is handsome. And there is definitely animosity there from the big man in DC.
+Say what you will about Justin, our boy is handsome. And there is definitely animosity there from the big man in Mar-a-Lago/DC.
 
-However ridiculous (and hilarious) these or other reasons are, Canada is now in a trade war against the US, its closest historical trade partner.
+However ridiculous (and hilarious) these or other reasons for Trump's tariffs are, Canada is now in a trade war against the US, its closest historical trade partner.
 
-Mark Carney, the new Prime Minister and leader of the Liberal Party replacing Trudeau, said after his election that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs.
+Mark Carney, the new Prime Minister replacing Trudeau after the latter's resignation, said after his election victory that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs. Both major contenders to become the Prime Minister in the election this year have stated clear intentions to decouple from the United States in trade relations.
 
 How might this play out for Canadian industries and workers? Let's first take a look at the current state of affairs between Canada and its main trade partners. Then we'll discuss how the proposed tariffs and counter-tariffs may influence Canada's trade patterns and the effect on jobs, wages, and prices using a simple open economy general equilibrium model.
 
@@ -59,7 +59,7 @@ About three-quarters of total Canadian exports ($751 billion) went to the US ($5
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-Looking back over the past 25 years, there is a trend towards diversifying trade away from the US for imports. [say more here]
+Looking back over the past 25 years, there is a trend towards diversifying trade away from the US for imports. [continue]
 
 <figure>
     <figcaption align="center" style="font-size:16">
@@ -69,7 +69,7 @@ Looking back over the past 25 years, there is a trend towards diversifying trade
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-There is also a trend of diversifying from US, but much less pronouced compared to imports. Shares of exports to the US [say more here]
+There is also a trend of diversifying from US, but much less pronouced compared to imports. Shares of exports to the US [continue]
 
 <figure>
     <figcaption align="center" style="font-size:16">
@@ -79,8 +79,7 @@ There is also a trend of diversifying from US, but much less pronouced compared 
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-
-It's quite clear that Canada's trade activities are heavily reliant on the US, especially in terms of exports. That likely means a lot of Canadian producers will be heavily hit by the tariffs, which limit their access to the largest consumer market in the world. Not going to lie, the prognostication looks quite grim. But how bad will it be? Well first let's see which sectors are going to be effected and what the tariffs are.
+It's quite clear that Canada's trade activities are heavily reliant on the US, especially in exports. A lot of Canadian producers will be hit hard by the tariffs, since such policies will limit their access to not only their neighbour but probably the largest single-country consumer market in the world. Not going to lie, the prognostication looks quite grim. But how bad will it be? Well let's see which sectors will be most affected by trade shocks and what the tariffs are.
 
 ## Trade Sectors and Tariffs
 

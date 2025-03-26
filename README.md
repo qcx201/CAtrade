@@ -1,36 +1,43 @@
-# A prospectus on the Canada-US Trade War (draft)
+---
+title: A prospectus on the Canada-US Trade War
+date: 2025-03-24
+categories: [economics]
+tags: [trade war, Canada]
+---
 
-Author: Q.C. Xie | First published: 2025-03-xx | Last edited: 2025-03-xx
+<!-- # A prospectus on the Canada-US Trade War -->
 
-Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be: for no good reason.
+Why did Donald Trump start an unnecessary trade war with Canada? The consensus seems to be for no good reason.
 
 His formal justifications are nebulous, but hover around border security and the US trade deficit with Canada. These reasons, however, are either detached from reality or based on a flawed understanding of how bilateral trade works.
 
-Canada's contribution to US border problem is negligeable. Less than xx% illegal migrants come from Canada, and less than 1% of fentanyl in the US comes from Canada. [source] Almost a rounding error.
+Canada's contribution to US border problem is negligeable. Less than xx% illegal migrants come from Canada, and less than 1% of fentanyl in the US comes from Canada. [SOURCE] Almost a rounding error.
 
-The trade deficit with Canada is dwarfed by those of other US trade partners like China and Germany. [source]
+The trade deficit with Canada is dwarfed by those of other US trade partners like China and Germany. [SOURCE]
 
 So why did he really start all this trouble? My favourite pet theory is that he did not like being [cuckolded](https://www.urbandictionary.com/define.php?term=Cuckold) by Justin Trudeau (even though the President has had a [storied history of alleged adulteries](https://www.businessinsider.com/trump-melania-stormy-daniels-affairs-marriages-timeline-2018-3)).
 
-It goes back to a G7 summit in 2019, where a photo went viral of Trudeau kissing First Lady Melania Trump while she held the hand of the oblivious President. One French (of course) news outlet reporting on this lead with ["look of lust"](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo) in the headline.
+It goes back to a G7 summit in 2019, where a photo of Trudeau kissing First Lady Melania Trump, who was holding the oblivious President's hand, went viral. One French (of course) news outlet reporting on this lead with ["look of lust"](https://www.france24.com/en/20190827-papers-indonesia-names-new-capital-borneo-israel-lebanon-melania-trudeau-g7-photo) in the headline.
 
-
+<br>
 <div style="text-align: center; width: 100%;">
 <img src="https://github.com/user-attachments/assets/5d8a43b6-657d-483d-97ab-13966278c6e4" alt="Justin Trudeau and Melania Trump stand next to Donald Trump in Biarritz, France, on 25 August. Photograph: Carlos Barría/Reuters" width="600"/>
 </div>
+<br>
 
+The first daughter was not spared the Trudeau photo trap either. Following Trudeau's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying a snapshot of Ivanka Trump gazing at the Prime Minister with a pondering hand on her chin.
 
-The first daughter was not spared the Trudeau photo trap either. Following Trudeau's 2017 visit to Washington, one viral tweet wrote, ["Get someone that looks at you the way Ivanka Trump looks at Justin Trudeau,"](https://x.com/Phil_Lewis_/status/831280292379910144?t=EAPxWbPN6pyIdn-oeZOecQ&s=19) accompanying this snap of Ivanka Trump gazing at the Prime Minister with a pondering hand on her chin.
-
+<br>
 <div style="text-align: center; width: 100%;">
 <img src="https://github.com/user-attachments/assets/4b67b532-9ce9-4f73-9ca3-a5631cd5c578" alt="Ivanka Trump and Justin Trudeau at a roundtable discussion at the White House on Monday. Photograph: Saul Loeb/AFP/Getty Images" width="600"/>
 </div>
+<br>
 
-Say what you will about Justin, our boy is handsome. And there is definitely animosity there from the big man in Mar-a-Lago/DC.
+Say what you will about Justin, but our boy is handsome. And there is definitely animosity there from the big man in DC/Mar-a-Lago.
 
 However ridiculous (and hilarious) these or other reasons for Trump's tariffs are, Canada is now in a trade war against the US, its closest historical trade partner.
 
-Mark Carney, the new Prime Minister replacing Trudeau after the latter's resignation, said after his election victory that [Canada "will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also indicated [favoring a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs. Both major contenders to become the Prime Minister in the election this year have stated clear intentions to decouple from the United States in trade relations.
+Mark Carney, the new Prime Minister replacing Trudeau after the latter's resignation, said after his Liberal Party's election victory that ["Canada will win" the trade war.](https://www.bbc.com/news/articles/c36wkg47z1po.amp) Pierre Poilievre, leader of the main Conservatives opposition, also stated that he [favors a retaliatory response](https://youtube.com/shorts/4ZP7V5cxKPs?si=hMU9ef43AnjcC4nY) to US tariffs. Both major contenders to become the Prime Minister in the coming election this year have stated clear intentions to decouple from the United States in trade relations. [SOURCE]
 
 How might this play out for Canadian industries and workers? Let's first take a look at the current state of affairs between Canada and its main trade partners. Then we'll discuss how the proposed tariffs and counter-tariffs may influence Canada's trade patterns and the effect on jobs, wages, and prices using a simple open economy general equilibrium model.
 
@@ -45,7 +52,7 @@ In 2024, imports from the US totaled $360 billion, constituting about half of al
     <figcaption align="center" style="font-size:16">
         <b>Canada's Top Import Partners (2024)</b>
     </figcaption>
-    <img src='./figures/03-import_partners.png'/>
+    <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-import_partners.png?raw=true' alt=''/>
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
@@ -55,27 +62,27 @@ About three-quarters of total Canadian exports ($751 billion) went to the US ($5
     <figcaption align="center" style="font-size:16">
         <b>Canada's Top Export Partners (2024)</b>
     </figcaption>
-        <img src='./figures/03-export_partners.png'/>
+        <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-export_partners.png?raw=true' alt=''/>
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-Looking back over the past 25 years, there is a trend towards diversifying trade away from the US for imports. [continue]
+Looking back over the past 25 years, there is a trend towards diversifying trade away from the US for imports. [EXPAND]
 
 <figure>
     <figcaption align="center" style="font-size:16">
         <b>Canadian Import Partners Shares</b>
     </figcaption>
-        <img src='./figures/03-importshare.png'/>
+        <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-importshare.png?raw=true' alt=''/>
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
-There is also a trend of diversifying from US, but much less pronouced compared to imports. Shares of exports to the US [continue]
+There is also a trend of diversifying from US, but much less pronouced compared to imports. Shares of exports to the US [EXPAND]
 
 <figure>
     <figcaption align="center" style="font-size:16">
         <b>Canadian Export Partners Shares</b>
     </figcaption>
-        <img src='./figures/03-exportshare.png'/>
+        <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-exportshare.png?raw=true' alt=''/>
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
 </figure>
 
@@ -93,17 +100,13 @@ figure img{width: 100%;}
 <div>
 <figure>
     <figcaption align="center"><b>Canada's top 10 import partners (2024)</b></figcaption>
-    <img src='./figures/03-import_partners.png'/>
+    <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-import_partners.png?raw=true' alt=''/>
 </figure>
 <figure>
     <figcaption align="center"><b>Canada's top 10 export partners (2024)</b></figcaption>
-    <img src='./figures/03-export_partners.png'/>
+    <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-export_partners.png?raw=true' alt=''/>
 </figure>
 </div> -->
-
-
-
-
 
 
 <!--

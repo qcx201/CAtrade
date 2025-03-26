@@ -70,7 +70,7 @@ Looking back over the past 25 years, there is a trend towards diversifying trade
 
 <figure>
     <figcaption align="center" style="font-size:16">
-        <b>Shares of Imports to Canadian from Trade Partners</b>
+        <b>Shares of Imports to Canada from Trade Partners</b>
     </figcaption>
         <img src='https://github.com/JackQCXie/CAtrade/blob/master/figures/03-importshare.png?raw=true' alt=''/>
     <figcaption align="left">Data source: ISED Canada | Figure by author.</figcaption>
